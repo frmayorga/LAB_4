@@ -104,7 +104,15 @@ El respectivo calculo del error es:
 
 **CIRCUITO 3 (12 Y 20 V)**
 
+Una vez que se obtuvo los datos de la resistencia y el voltaje en los 2 diferentes casos, se procede a calcular la corriente total en la resistencia 4 (R4) de valor de 470 ohmios, como se observa las 2 corrientes tiene el mismo sentido, debido a esto tenemos que sumar los 2 corrientes que se obtuvo para así hallar la corriente total, y su valor es de 25,5 mA.
 
+De la mima manera se hace con el voltaje, en este caso los voltajes se tienen que restar ya que no tienen el mismo sentido, se obtiene el resultado de 952 mV.
+
+Para verificar los resultado anteriores, se procede a realizar el circuito en un simulador, en este caso se utilizó el simulador Tinkercad.
+
+![image](https://user-images.githubusercontent.com/93561706/147183327-d147fb7f-f281-4119-bee0-2f9e69d1156a.png)
+
+Como se logra observar los resultados antes mencionados son los mismos que se obtuvo en el simulador, por ende se confirma que el procedimiento estuvo bien elaborados.
 
 # VIDEO
 
