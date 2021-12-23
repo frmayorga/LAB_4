@@ -140,6 +140,14 @@ El respectivo calculo del error es:
 ![image](https://user-images.githubusercontent.com/93398718/147186014-f5185754-ec96-4722-9ace-3ab192f03650.png)  
 
 **CIRCUITO 3 (12 Y 20 V)**
+Tabulando los datos obtenidos anteriormente: 
+
+|Corriente IX total Medido | Corriente IX total Calculado | Voltaje VA total Medido | Voltaje VA total Calculado|
+|--------------------|------------------------|-------------------|---------------------|
+| 25.5 mA | 25.5 mA | 952 mV | 952 mV |
+
+El respectivo calculo del error es: 
+
 
 # VIDEO
 
