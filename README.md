@@ -162,9 +162,11 @@ El respectivo calculo del error es:
 
 # VIDEO
 
+https://youtu.be/Rp6mUtRs-JM
 
 # CONCLUSIONES
 
+- El teorema de superposición nos ayuda a simplicar los calculos de un circuito cuando tenemos multiples fuentes, es muy útil y además se ha comprobado su funcionamiento en este laboratorio, pues se observo a base de mediciones y cálculos que estos coincidian, sin embargo las fuentes son ideales por lo tanto en la vida real es importante tomar en cuenta las resistencias internas de las fuentes.
 
 # BIBLIOGRAFIA
 
