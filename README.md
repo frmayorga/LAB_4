@@ -7,7 +7,8 @@
 * Demostrar el teorema de superposición con el uso de calculos y el simulador de circuitos tinkercad para sustentar conocimientos teóricos.
 
 ## OBJETIVO ESPECIFICO
-
+- Dmostrar a travez de ejercicios la aplicacion del teorema de superposición.
+- Comprobar la verificacion de los resultados obtenidos del ejercicio mediante el simulador tinkercad. 
 
 # MARCO TEORICO
 
@@ -144,7 +145,7 @@ Tabulando los datos obtenidos anteriormente:
 
 |Corriente IX total Medido | Corriente IX total Calculado | Voltaje VA total Medido | Voltaje VA total Calculado|
 |--------------------|------------------------|-------------------|---------------------|
-| 25.5 mA | 25.5 mA | 952 mV | 952 mV |
+| 25.5 mA | 25.5 mA | 952 mV | 950 mV |
 
 El respectivo calculo del error es: 
 
