@@ -37,12 +37,11 @@ TOLERANCIA : Oro +- 5%; Plata +- 10%.
 
 | CANTIDAD | MATERIAL |
 |--------|------------|
-| 1 | Fuente de voltaje en C.D. |
-| 1 | Multimetro Digital |
-| 1 | Resistor de 1.8 Kilo-Ohmios |
+| 2 | Fuente de voltaje en C.D. |
+| 2 | Multimetro Digital |
+| 1 | Resistor de 1 Kilo-Ohmios |
 | 1 | Resistor de 470 Ohmios |
-| 1 | Resistor de 1.5 kilo-ohmio |
-| 1 | Resistor de 3.9 kilo-ohmios |
+| 1 | Resistor de 820 Ohmios |
 | 1 | Resistor de 2.2 Kilo-ohmios |
 | 1 | Protoboard |
 
