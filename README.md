@@ -150,7 +150,11 @@ El respectivo calculo del error es:
 
 - Para la corriente IX:
 
+![image](https://user-images.githubusercontent.com/93561706/147188272-ae8f5029-30a2-43c1-9693-a95e6b41ab97.png)
+
 - Para el voltaje VA: 
+
+![image](https://user-images.githubusercontent.com/93561706/147188301-1b3b867b-29bd-4913-8dcf-c7297705ec9f.png)
 
 
 # VIDEO
