@@ -154,7 +154,7 @@ El respectivo calculo del error es:
 
 - Para el voltaje VA: 
 
-![image](https://user-images.githubusercontent.com/93561706/147188301-1b3b867b-29bd-4913-8dcf-c7297705ec9f.png)
+![image](https://user-images.githubusercontent.com/93561706/147189465-0c8c0c90-04bb-41c7-9ed5-caa77dff9fe9.png)
 
 
 # VIDEO
