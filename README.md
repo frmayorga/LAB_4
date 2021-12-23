@@ -53,11 +53,9 @@ Se midio la corriente y el voltaje en el lugar requerido.
 
 Luego se procedio a reemplazar una de las fuentes por su resistencia interna y se realizo la medición de voltaje y corriente en el lugar requerido, se realizo el mismo proceso para la otra fuente de voltaje, estos valores fueron anotados en una tabla para su respectivo análisis. 
 
-# RESPUESTA DE INTERROGANTES Y CALCULO DE ERROR
-
 **CIRCUITO 1 (12 V)** 
 
-Para el procedimiento teorico se realizo los siguientes calculos: 
+Para el procedimiento teorico en primer lugar se sustituyo la fuente de 20 V por su resistencia interna y se realizo los siguientes calculos: 
 
 ![Superposicion 1](https://user-images.githubusercontent.com/93361435/147174889-344dcbd0-0aa6-46c2-a3be-2339960901ad.png)
 
@@ -65,7 +63,13 @@ Para la medición en tinkercad obtenemos los siguientes resultados:
 
 ![image](https://user-images.githubusercontent.com/93361435/147174953-51f43e0e-4de2-436b-b4ee-a49962e8312e.png)
 
-Tabulando los datos: 
+
+
+# RESPUESTA DE INTERROGANTES Y CALCULO DE ERROR
+
+**CIRCUITO 1 (12 V)** 
+
+Tabulando los datos obtenidos anteriormente: 
 
 |Corriente IX Medido | Corriente IX Calculado | Voltaje VA Medido | Voltaje VA Calculado|
 |--------------------|------------------------|-------------------|---------------------|
