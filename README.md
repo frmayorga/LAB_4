@@ -33,6 +33,19 @@ TOLERANCIA : Oro +- 5%; Plata +- 10%.
 
 # PROCEDIMIENTO
 
+**Se utilizo los siguientes materiales:** 
+
+| CANTIDAD | MATERIAL |
+|--------|------------|
+| 1 | Fuente de voltaje en C.D. |
+| 1 | Multimetro Digital |
+| 1 | Resistor de 1.8 Kilo-Ohmios |
+| 1 | Resistor de 470 Ohmios |
+| 1 | Resistor de 1.5 kilo-ohmio |
+| 1 | Resistor de 3.9 kilo-ohmios |
+| 1 | Resistor de 2.2 Kilo-ohmios |
+| 1 | Protoboard |
+
 Se procede a armar el circuito de la figura en tinkercad: 
 
 ![image](https://user-images.githubusercontent.com/93361435/147123612-12e60421-4512-4404-b8ea-61c287b838be.png)
@@ -43,10 +56,33 @@ Luego se procedio a reemplazar una de las fuentes por su resistencia interna y s
 
 # RESPUESTA DE INTERROGANTES Y CALCULO DE ERROR
 
-**TABLA 1** 
+**CIRCUITO 1 (12 V)** 
+
+Para el procedimiento teorico se realizo los siguientes calculos: 
+
+![Superposicion 1](https://user-images.githubusercontent.com/93361435/147174889-344dcbd0-0aa6-46c2-a3be-2339960901ad.png)
+
+Para la medición en tinkercad obtenemos los siguientes resultados: 
+
+![image](https://user-images.githubusercontent.com/93361435/147174953-51f43e0e-4de2-436b-b4ee-a49962e8312e.png)
+
+Tabulando los datos: 
+
+|Corriente IX Medido | Corriente IX Calculado | Voltaje VA Medido | Voltaje VA Calculado|
+|--------------------|------------------------|-------------------|---------------------|
+| 25.5 mA | 25.53 mA | 6.53 V | 6.527 V|
+
+El respectivo calculo del error es: 
+
+- Para la corriente IX: 
+   ![image](https://user-images.githubusercontent.com/93361435/147175507-1af68fc9-069e-4e20-901f-170f7b21f4bb.png)
+- Para el voltaje VA: 
+   ![image](https://user-images.githubusercontent.com/93361435/147175609-21769281-79f6-49b5-9390-a38f16cd00f3.png)
 
 
-**TABLA 2**
+**CIRCUITO 2 (20 V)**
+
+**CIRCUITO 3 (12 Y 20 V)**
 
 
 
