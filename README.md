@@ -89,7 +89,7 @@ Una vez que se obtuvo los datos de la resistencia y el voltaje en los 2 diferent
 
 ![image](https://user-images.githubusercontent.com/93561706/147187282-3d886a86-7291-47a4-b5ce-c2712546203f.png)
 
-De la mima manera se hace con el voltaje, en este caso los voltajes se tienen que restar ya que no tienen el mismo sentido, se obtiene el resultado de 952 mV.
+De la mima manera se hace con el voltaje, en este caso los voltajes se tienen que restar ya que no tienen el mismo sentido, se obtiene el resultado de 950 mV.
 
 ![image](https://user-images.githubusercontent.com/93561706/147187235-0096afc3-909f-4dd9-b103-5b9fbd65d7ca.png)
 
@@ -99,7 +99,7 @@ Para verificar los resultado anteriores, se procede a realizar el circuito en un
 
 ![image](https://user-images.githubusercontent.com/93561706/147183327-d147fb7f-f281-4119-bee0-2f9e69d1156a.png)
 
-Como se logra observar los resultados antes mencionados son los mismos que se obtuvo en el simulador, por ende se confirma que el procedimiento estuvo bien elaborados.
+Como se logra observar los resultados antes mencionados, son los mismos que se obtuvo en el simulador son los mismo con respecto a la corriente y parecidos al del voltaje, por ende se confirma que el procedimiento estuvo bien elaborados.
 
 
 # RESPUESTA DE INTERROGANTES Y CALCULO DE ERROR
