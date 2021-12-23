@@ -93,7 +93,7 @@ De la mima manera se hace con el voltaje, en este caso los voltajes se tienen qu
 
 ![image](https://user-images.githubusercontent.com/93561706/147187235-0096afc3-909f-4dd9-b103-5b9fbd65d7ca.png)
 
-![image](https://user-images.githubusercontent.com/93561706/147187265-d918d8b8-5b86-4975-9a9e-5b3fa7ae741a.png)
+![image](https://user-images.githubusercontent.com/93561706/147189239-aa38bbee-a2c4-40e0-9417-5688edcdf5cf.png)
 
 Para verificar los resultado anteriores, se procede a realizar el circuito en un simulador, en este caso se utilizó el simulador Tinkercad.
 
