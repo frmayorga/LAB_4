@@ -167,6 +167,7 @@ https://youtu.be/Rp6mUtRs-JM
 # CONCLUSIONES
 
 - El teorema de superposición nos ayuda a simplicar los calculos de un circuito cuando tenemos multiples fuentes, es muy útil y además se ha comprobado su funcionamiento en este laboratorio, pues se observo a base de mediciones y cálculos que estos coincidian, sin embargo las fuentes son ideales por lo tanto en la vida real es importante tomar en cuenta las resistencias internas de las fuentes.
+- cuando aplicamos el metodo de superposicion a este ejercicio en concreto se deben tomar en cuenta ciertas considerasiones para llegar a la respuesta ccorrecta. por ejemplo al medir la fuente de 20v tuvimos que tomar en cuenta la resistencia que provocaba el cable conectado en paralelo con la resistencia de 0.47 kilo ohms, la cual provocava una resistencia en paralelo de valor cero, ademas, a pesar de existir corriente en la resistencia de 0.47 kilo ohms esta corriente se pierde en el cable, pues la corriente tiende a irse por el camino con menor resistencia esto provoca que Ix sea cero. solo tomando en cuenta esto podemos llegar a la solucion del problema.
 
 # BIBLIOGRAFIA
 
