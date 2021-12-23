@@ -59,7 +59,7 @@ Para el procedimiento teorico en primer lugar se sustituyo la fuente de 20 V por
 
 ![Superposicion 1](https://user-images.githubusercontent.com/93361435/147174889-344dcbd0-0aa6-46c2-a3be-2339960901ad.png)
 
-Para la medición en tinkercad obtenemos los siguientes resultados: 
+Para la medición en tinkercad como se dijo anteriormente se reemplaza la fuente de 20 V por su resistencia interna y se midio el voltaje y corriente requeridos y se obtuvo los siguientes resultados: 
 
 ![image](https://user-images.githubusercontent.com/93361435/147174953-51f43e0e-4de2-436b-b4ee-a49962e8312e.png)
 
