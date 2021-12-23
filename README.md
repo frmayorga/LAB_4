@@ -148,6 +148,10 @@ Tabulando los datos obtenidos anteriormente:
 
 El respectivo calculo del error es: 
 
+- Para la corriente IX:
+
+- Para el voltaje VA: 
+
 
 # VIDEO
 
