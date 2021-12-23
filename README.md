@@ -75,7 +75,11 @@ Para la medición en tinkercad como se dijo anteriormente se reemplaza la fuente
 ![image](https://user-images.githubusercontent.com/93398718/147182578-308371d2-0cb1-4eca-aa5b-7e45a39487f1.png)  
 - debemos recordar que REQ es resultado de R2 y R3 las cuales se encontraban en paralelo, por tal motivo el voltaje de REQ es el mismo que el de R2 y R3, de esta manera podemos determinar que VA es lo siguiente:    
 ![image](https://user-images.githubusercontent.com/93398718/147183052-cc71b69e-6b57-4343-ae63-b2fc55d8a8de.png)  
-- para la corriente en Ix podemos asumir que sera la misma que la corriente en VA, sin embargo el cable que esta en paralelo con R4 provoca que esta resistencia tienda a cero, de manera que Ix=0 en este analisis.
+- para la corriente en Ix podemos asumir que sera la misma que la corriente en VA, la cual es de Iva=9.1219mA, sin embargo el cable que esta en paralelo con R4 provoca que esta resistencia tienda a cero, de manera que Ix=0 en este analisis.
+
+Para la medición en tinkercad, se reemplaza la fuente de 20 V por su resistencia interna y se mide el voltaje y corriente requeridos, de tal manera que se obtienen los siguientes resultados:    
+![image](https://user-images.githubusercontent.com/93398718/147186527-9e95abc5-66c2-4463-86ba-683401b1fadc.png)  
+
 
 **CIRCUITO 3 (12 Y 20 V)**
 
