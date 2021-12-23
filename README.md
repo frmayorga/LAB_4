@@ -85,7 +85,15 @@ Para la medición en tinkercad, se reemplaza la fuente de 20 V por su resistenci
 
 Una vez que se obtuvo los datos de la resistencia y el voltaje en los 2 diferentes casos, se procede a calcular la corriente total en la resistencia 4 (R4) de valor de 470 ohmios, como se observa las 2 corrientes tiene el mismo sentido, debido a esto tenemos que sumar los 2 corrientes que se obtuvo para así hallar la corriente total, y su valor es de 25,5 mA.
 
+![image](https://user-images.githubusercontent.com/93561706/147187227-fc6b0ed4-d3b2-43e8-94d8-5d39a39864d9.png)
+
+![image](https://user-images.githubusercontent.com/93561706/147187282-3d886a86-7291-47a4-b5ce-c2712546203f.png)
+
 De la mima manera se hace con el voltaje, en este caso los voltajes se tienen que restar ya que no tienen el mismo sentido, se obtiene el resultado de 952 mV.
+
+![image](https://user-images.githubusercontent.com/93561706/147187235-0096afc3-909f-4dd9-b103-5b9fbd65d7ca.png)
+
+![image](https://user-images.githubusercontent.com/93561706/147187265-d918d8b8-5b86-4975-9a9e-5b3fa7ae741a.png)
 
 Para verificar los resultado anteriores, se procede a realizar el circuito en un simulador, en este caso se utilizó el simulador Tinkercad.
 
