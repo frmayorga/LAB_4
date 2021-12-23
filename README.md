@@ -9,6 +9,7 @@
 ## OBJETIVO ESPECIFICO
 - Dmostrar a travez de ejercicios la aplicacion del teorema de superposición.
 - Comprobar la verificacion de los resultados obtenidos del ejercicio mediante el simulador tinkercad. 
+- Concluir acerca del teorema de superposición y su uso.
 
 # MARCO TEORICO
 
