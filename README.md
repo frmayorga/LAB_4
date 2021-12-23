@@ -63,6 +63,23 @@ Para la medición en tinkercad como se dijo anteriormente se reemplaza la fuente
 
 ![image](https://user-images.githubusercontent.com/93361435/147174953-51f43e0e-4de2-436b-b4ee-a49962e8312e.png)
 
+#### CIRCUITO 2 (20 V)
+
+- como primer paso se procede a cambiar la fuente de 12v por un cable, es decir, la ponemos en corto de la siguiente manera:  
+![image](https://user-images.githubusercontent.com/93398718/147181441-af81e229-35cb-4cb9-95ff-2e56406369e6.png)
+- debemos tomar en cuenta que el cable que esta en paralelo con R4 pone a R4 en corto de modo que su resistencia es cero. de esta manera obtenemos un circuito con R3 y R2 en paralelo, el cual se resuelve de la siguiente manera:    
+![image](https://user-images.githubusercontent.com/93398718/147181853-d6b3c3a9-3042-46cc-af1d-757946331b81.png)    
+![image](https://user-images.githubusercontent.com/93398718/147182083-c108681f-1e35-4b00-9952-25d31e9ca668.png)  
+![image](https://user-images.githubusercontent.com/93398718/147182183-bf7b9900-bd59-4426-a14d-db9f2c511544.png)  
+- como se puede notar, ahora disponemos de un circuito con dos resistencias en serie, de tal manera que hacemos uso del divisor de voltaje para hallar el voltaje de REQ.      
+![image](https://user-images.githubusercontent.com/93398718/147182578-308371d2-0cb1-4eca-aa5b-7e45a39487f1.png)  
+- debemos recordar que REQ es resultado de R2 y R3 las cuales se encontraban en paralelo, por tal motivo el voltaje de REQ es el mismo que el de R2 y R3, de esta manera podemos determinar que VA es lo siguiente:    
+![image](https://user-images.githubusercontent.com/93398718/147183052-cc71b69e-6b57-4343-ae63-b2fc55d8a8de.png)  
+- para la corriente en Ix podemos asumir que sera la misma que la corriente en VA, sin embargo el cable que esta en paralelo con R4 provoca que esta resistencia tienda a cero, de manera que Ix=0 en este analisis.
+
+
+
+ 
 
 
 # RESPUESTA DE INTERROGANTES Y CALCULO DE ERROR
