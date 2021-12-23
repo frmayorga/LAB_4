@@ -110,6 +110,23 @@ El respectivo calculo del error es:
 
 **CIRCUITO 2 (20 V)**
 
+Tabulando los datos obtenidos anteriormente: 
+
+|Corriente IX Medido | Corriente IX Calculado | Voltaje VA Medido | Voltaje VA Calculado|
+|--------------------|------------------------|-------------------|---------------------|
+| 9.12 mA | 9.1219 mA | 7.48 V | 7.4792 V|
+
+El respectivo calculo del error es: 
+
+- Para la corriente IX: 
+
+![image](https://user-images.githubusercontent.com/93398718/147185828-fab5304f-aa43-4537-b7ab-e36b684f9d5f.png)  
+
+
+- Para el voltaje VA: 
+   
+![image](https://user-images.githubusercontent.com/93398718/147186014-f5185754-ec96-4722-9ace-3ab192f03650.png)  
+
 **CIRCUITO 3 (12 Y 20 V)**
 
 # VIDEO
